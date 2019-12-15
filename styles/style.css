@@ -39,3 +39,17 @@ p
 .marginal {
     margin:8px; /* här angavs avstånd mellan länkarna längst ner*/
 }
+
+nav {
+    border-bottom: 1px solid black;
+}
+
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.crumb {
+    display: inline-block;
+}
+
